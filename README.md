@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on learning more about native application development<br>🤝 I am currently working as a mobile developer I am looking for help with 🌱 I am currently learning Kotlin and swift<br>💬 You can communicate through this email aldopuello05@gmail.com<br>⚡ Fun fact, I am studying at the University of the Coast, studying 7 semester of Systems Engineer.
+🔭 I am currently working on learning more about native application development<br>🤝 I am currently working as a mobile developer I am looking for help with 🌱 I am currently learning Kotlin and swift<br>💬 You can communicate through this email <br>⚡ Fun fact, I am studying at the University of the Coast, studying 7 semester of Systems Engineer.
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,bootstrap,firebase,git,github,kotlin,laravel,js,mysql,php,postman&theme=)]()
